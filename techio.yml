@@ -6,4 +6,7 @@ plan:
   statement: markdowns/Intro.md
 - title: Marco Teorico
   statement: markdowns/1_MarcoTeorico/marcoTeorico.md
+  statement: markdowns/1_MarcoTeorico/2-1TeoriaDeModelamiento.md
+
+
   
