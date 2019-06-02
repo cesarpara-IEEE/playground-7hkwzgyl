@@ -2,3 +2,8 @@ title: Control de Horno a gas
 plan:
 - title: Contenido
   statement: markdowns/welcome.md
+- title: Introduccion
+  statement: markdowns/intro.md
+- title: Marco Teorico
+  statement: markdowns/1_MarcoTeorico/marcoTeorico.md
+  
