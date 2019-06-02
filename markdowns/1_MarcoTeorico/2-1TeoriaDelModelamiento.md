@@ -17,4 +17,4 @@ A partir de las variables a controlar, se debe tener en cuenta cuales son las en
 
 En segunda instancia se describen las relaciones matemáticas que involucran todos los parámetros físicos involucrados, para que finalmente se determinen ecuaciones que enlazan estas relaciones, formando así un modelo que puede ser comparado y ajustado con respecto a otros métodos de modelado, como el de relación entradas, salidas del sistema.
 
-En los Sistemas térmicos, las variables involucradas son: la temperatura $$ T(°C) $$ y el flujo de calor por unidad de tiempo que es la potencia transferida al sistema, $f=frac{dQ}{dt}(w)$ y la energía definida como $ Q=fdt(w_s) $. Por otro lado se deben tener en cuenta el calor específico
+En los Sistemas térmicos, las variables involucradas son: la temperatura $\T(°C)$ y el flujo de calor por unidad de tiempo que es la potencia transferida al sistema, $f=frac{dQ}{dt}(w)$ y la energía definida como $ Q=fdt(w_s) $. Por otro lado se deben tener en cuenta el calor específico
