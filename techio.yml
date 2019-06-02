@@ -3,7 +3,7 @@ plan:
 - title: Contenido
   statement: markdowns/welcome.md
 - title: Introduccion
-  statement: markdowns/intro.md
+  statement: markdowns/Intro.md
 - title: Marco Teorico
   statement: markdowns/1_MarcoTeorico/marcoTeorico.md
   
